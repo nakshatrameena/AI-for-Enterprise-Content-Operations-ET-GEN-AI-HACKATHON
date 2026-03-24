@@ -29,6 +29,7 @@ The system tracks real-time operational metrics to prove value:
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Launch the app: `streamlit run app.py`
+4. Link: https://ai-for-enterprise-content-operations-et-gen-ai-hackathon-natfc.streamlit.app/
 
 ---
 Author: Nakshatra Meena  
